@@ -5,21 +5,27 @@
 23 - Nguyễn Vạn Đăng Thành
 
 # Mục lục
-I. Giới thiệu sản phẩm
-1. Tổng quan về dự án
-2. Tính năng sản phẩm
-II. Hướng dẫn sử dụng
-1. Cách cài đặt cục bộ
-2. Hướng dẫn sử dụng các tính năng
-III. Các công cụ đã dùng
-1. Các ngôn ngữ lập trình và thư viện
-2. Công cụ thứ ba
-IV. Mã nguồn
-1. Mã nguồn:
-2. Cấu trúc tệp
-3. Sơ đồ cơ sở dữ liệu
-4. Danh sách endpoint API:
-V. Tài liệu tham khảo
+# Mục lục
+
+- [I. Giới thiệu sản phẩm](#i-giới-thiệu-sản-phẩm)
+  - [1. Tổng quan về dự án](#1-tổng-quan-về-dự-án)
+  - [2. Tính năng sản phẩm](#2-tính-năng-sản-phẩm)
+
+- [II. Hướng dẫn sử dụng](#ii-hướng-dẫn-sử-dụng)
+  - [1. Cách cài đặt cục bộ](#1-cách-cài-đặt-cục-bộ)
+  - [2. Hướng dẫn sử dụng các tính năng](#2-hướng-dẫn-sử-dụng-các-tính-năng)
+
+- [III. Các công cụ đã dùng](#iii-các-công-cụ-đã-dùng)
+  - [1. Các ngôn ngữ lập trình và thư viện](#1-các-ngôn-ngữ-lập-trình-và-thư-viện)
+  - [2. Công cụ thứ ba](#2-công-cụ-thứ-ba)
+
+- [IV. Mã nguồn](#iv-mã-nguồn)
+  - [1. Mã nguồn](#1-mã-nguồn)
+  - [2. Cấu trúc tệp](#2-cấu-trúc-tệp)
+  - [3. Sơ đồ cơ sở dữ liệu](#3-sơ-đồ-cơ-sở-dữ-liệu)
+  - [4. Danh sách endpoint API](#4-danh-sách-endpoint-api)
+
+- [V. Tài liệu tham khảo](#v-tài-liệu-tham-khảo)
 ## I. Giới thiệu sản phẩm
 ### 1. Tổng quan về dự án
 Hệ thống quản lí nhà hàng là một ứng dụng web được xây dựng nhằm hỗ trợ việc quản lí các hoạt động cơ bản trong nhà hàng một cách hiệu quả và thuận tiện hơn. Thay vì thực hiện việc ghi chép thủ công hoặc sử dụng nhiều công cụ rời rạc, hệ thống cho phép người quản lí theo dõi và xử lí thông tin tập trung trên một nền tảng duy nhất. Ứng dụng cung cấp các chức năng chính như quản lí danh sách món ăn, tạo và lưu trữ đơn hàng, cũng như thống kê doanh thu của nhà hàng theo thời gian.
