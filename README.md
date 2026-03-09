@@ -5,7 +5,21 @@
 23 - Nguyễn Vạn Đăng Thành
 
 # Mục lục
-[toc]
+I. Giới thiệu sản phẩm
+1. Tổng quan về dự án
+2. Tính năng sản phẩm
+II. Hướng dẫn sử dụng
+1. Cách cài đặt cục bộ
+2. Hướng dẫn sử dụng các tính năng
+III. Các công cụ đã dùng
+1. Các ngôn ngữ lập trình và thư viện
+2. Công cụ thứ ba
+IV. Mã nguồn
+1. Mã nguồn:
+2. Cấu trúc tệp
+3. Sơ đồ cơ sở dữ liệu
+4. Danh sách endpoint API:
+V. Tài liệu tham khảo
 ## I. Giới thiệu sản phẩm
 ### 1. Tổng quan về dự án
 Hệ thống quản lí nhà hàng là một ứng dụng web được xây dựng nhằm hỗ trợ việc quản lí các hoạt động cơ bản trong nhà hàng một cách hiệu quả và thuận tiện hơn. Thay vì thực hiện việc ghi chép thủ công hoặc sử dụng nhiều công cụ rời rạc, hệ thống cho phép người quản lí theo dõi và xử lí thông tin tập trung trên một nền tảng duy nhất. Ứng dụng cung cấp các chức năng chính như quản lí danh sách món ăn, tạo và lưu trữ đơn hàng, cũng như thống kê doanh thu của nhà hàng theo thời gian.
