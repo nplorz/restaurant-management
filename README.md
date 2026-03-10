@@ -83,10 +83,11 @@ Tuỳ chỉnh Xem, Chuẩn bị hoặc Huỷ đơn hàng.
 ![image](https://hackmd.io/_uploads/SykcALhFWg.png)
 ## III. Các công cụ đã dùng
 ### 1. Các ngôn ngữ lập trình và thư viện
-- **Ngôn ngữ lập trình:** Node.js
-- **Cơ sở dữ liệu:** MySQL
-- **Giao diện:** HTML, CSS, JavaScript
-- **Thư viện:** cors ``(2.8.5)``, express ``(4.21.0)``, mysql2 ``(3.11.0)``
+- **Ngôn ngữ lập trình:** JavaScript
+- **Môi trường chạy:** Node.js
+- **Hệ quản trị cơ sở dữ liệu:** MySQL
+- **Công nghệ giao diện:** HTML, CSS, JavaScript
+- **Thư viện/Framework:** cors ``(2.8.5)``, express ``(4.21.0)``, mysql2 ``(3.11.0)``
 ### 2. Công cụ thứ ba
 - **Gemini, Claude:** Hỗ trợ viết mã nguồn, chỉnh sửa lỗi,...
 - **Các prompt đã sử dụng:**
